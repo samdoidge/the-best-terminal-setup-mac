@@ -1,5 +1,7 @@
 # The best terminal setup for Mac.
 
+![best terminal screenshot](https://raw.githubusercontent.com/samdoidge/the-best-terminal-setup-mac/master/best-terminal.png)
+
 1. We install zsh via [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) as it is a superior shell to bash. The git plugin by default and improved autocomplete is reason enough.
 
 2. We download [iTerm2](https://www.iterm2.com) as it allows visual customisation which the standard Mac terminal does not.
