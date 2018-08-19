@@ -1,3 +1,7 @@
 ## Visual Studio Code
 ### Extensions
 * DotENV - .env Syntax highlighting
+
+
+Enable `code` terminal command:
+https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
