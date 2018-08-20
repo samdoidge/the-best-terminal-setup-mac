@@ -1,4 +1,4 @@
-# The best terminal setup for Mac.
+# The very best terminal setup for Mac.
 
 ![best terminal screenshot](https://raw.githubusercontent.com/samdoidge/the-best-terminal-setup-mac/master/best-terminal.png)
 
